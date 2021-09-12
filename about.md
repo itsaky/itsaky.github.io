@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+Hey, I'm Akash Yadav, 18 year old, Android developer from India!  
 
-### More Information
+### Open source projects
+You can have a look at my open source projects at [GitHub](https://github.com/itsaky). I wrote these projects at the very beginning of my journey in programming. They are not so well-written!
 
-A place to include any other types of information that you'd like to include about yourself.
+### Closed source projects
+I also wrote some closed source projects. One of them (the only one I can show you) is [AndroidIDE](https://androidide.com).
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[Email](mailto:itsaky01@gmail.com)  
+[Telegram](https://t.me/itsaky)
