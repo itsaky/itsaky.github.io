@@ -1,0 +1,1 @@
+export const GitHub_AndroidIDE = "https://github.com/AndroidIDEOfficial/AndroidIDE"
