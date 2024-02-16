@@ -46,7 +46,7 @@ const HomePage = () => {
                     <button type="button">
                         View projects on GitHub
                     </button>
-                    <SvgExternal className="fill-white ml-3"/>
+                    <SvgExternal className="fill-black dark:fill-white ml-3"/>
                 </div>
             </Link>
         </div>
